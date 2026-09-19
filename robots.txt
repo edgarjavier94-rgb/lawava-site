@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /mva.html
+
+Sitemap: https://lawava.com/sitemap.xml
